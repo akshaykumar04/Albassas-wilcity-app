@@ -1,0 +1,12 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.DS_Store
+package-lock.json
+yarn.lock
+.svn/**/*
+.expo-shared/

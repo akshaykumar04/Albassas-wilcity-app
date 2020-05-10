@@ -1,0 +1,13 @@
+{
+  "api": {
+    "baseUrl": "https://albassas.com",
+    "timeout": 30000
+  },
+  "colorPrimary": "#d81340",
+  "loginScreenStartApp": {
+    "enable": false,
+    "skipButtonText": "Skip",
+    "title": "Albassas",
+    "text": "Explore This City"
+  }
+}
