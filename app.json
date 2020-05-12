@@ -38,7 +38,7 @@
       "usesAppleSignIn": false
     },
     "android": {
-      "package": "com.sstechcanada.albasas",
+      "package": "com.sstechcanada.albassas",
       "versionCode": 1,
       "config": {
         "googleMaps": {
