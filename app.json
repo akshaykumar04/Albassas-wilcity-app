@@ -35,10 +35,10 @@
         "NSPhotoLibraryUsageDescription": "This app requires to access your photo library to show image on profile"
       },
       "bundleIdentifier": "com.sstechcanada.albassas",
-      "usesAppleSignIn": true
+      "usesAppleSignIn": false
     },
     "android": {
-      "package": "com.sstechcanada.albassas",
+      "package": "com.sstechcanada.albasas",
       "versionCode": 1,
       "config": {
         "googleMaps": {
