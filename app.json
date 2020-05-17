@@ -2,7 +2,7 @@
   "expo": {
     "name": "Albassas",
     "description": "Albassas - Explore This City",
-    "slug": "Albassas",
+    "slug": "wilcity",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": ["ios", "android"],
